@@ -1,0 +1,2 @@
+# FluentValidationExample
+Contoh Penggunaan Library FluentValidation
